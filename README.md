@@ -18,7 +18,7 @@
 █████████████████████████████████
 
 NAME        :: MD Khalid Hasan
-ALIAS       :: North Bengal Coder
+ALIAS       :: NORTH BENGAL CODER
 STATUS      :: ONLINE
 COUNTRY     :: Bangladesh
 ROLE        :: Full Stack Developer
