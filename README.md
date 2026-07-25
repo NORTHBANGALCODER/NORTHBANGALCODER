@@ -48,7 +48,7 @@ Every project helps me improve my skills and understand modern development.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,firebase,mysql,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,firebase,git,github,&theme=dark"/>
 
 </p>
 
