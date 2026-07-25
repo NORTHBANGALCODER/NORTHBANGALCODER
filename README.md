@@ -1,157 +1,74 @@
 <!--
   README.md – North Bengal Coder (Md Khalid Hasan)
-  GitHub Profile README
-  Visit: https://github.com/NORTHBANGALCODER
+  A beginner-friendly GitHub profile README
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=North+Bengal+Coder;Md+Khalid+Hasan;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Khalid+👋;Learning+to+code%2C+one+bug+at+a+time!;Welcome+to+my+GitHub+Journey!" alt="Typing SVG" />
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=🚀%20Welcome&fontSize=30&fontAlignY=30&desc=to%20my%20GitHub%20profile&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🚀%20Beginner%20Coder&fontSize=25&fontAlignY=30&desc=North%20Bengal%20Coder&descAlignY=50" width="100%" />
 </div>
 
 ---
 
 <h1 align="center">👋 Hi, I'm <span style="background:linear-gradient(135deg,#f7971e,#ffd200);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Md Khalid Hasan</span></h1>
-<h3 align="center">aka <strong>NORTH BENGAL CODER</strong> &nbsp;|&nbsp; 20 yrs · 🇮🇳</h3>
+<h3 align="center">aka <strong>NORTH BANGAL CODER</strong> &nbsp;|&nbsp; 20 years old · 🇮🇳</h3>
 
 <p align="center">
-  <em>Full‑Stack Developer · Open Source Enthusiast · Tech Creator</em><br />
-  <a href="https://youtube.com/@northbengalcoder">▶️ YouTube</a> &nbsp;·&nbsp;
-  <a href="https://t.me/NorthBengalCoderx007">✈️ Telegram</a> &nbsp;·&nbsp;
-  <a href="https://github.com/NORTHBANGALCODER">🐙 GitHub</a>
+  <em>A passionate beginner developer from North Bengal, India. I'm on a mission to master full-stack development, one line of code at a time!</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NORTHBANGALCODER&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <a href="https://github.com/NORTHBANGALCODER?tab=followers">
-    <img src="https://img.shields.io/github/followers/NORTHBANGALCODER?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/NORTHBANGALCODER?tab=repositories">
-    <img src="https://img.shields.io/github/stars/NORTHBANGALCODER?label=Total%20Stars&style=social" alt="GitHub Stars" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pro-Developer-blue?style=flat&logo=github" alt="Pro Developer" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=flat&logo=opensource" alt="Open Source Lover" />
-  <img src="https://img.shields.io/badge/Telegram-Bot%20Builder-26A5E4?style=flat&logo=telegram" alt="Telegram Bot Builder" />
-  <img src="https://img.shields.io/badge/Firebase-Enthusiast-FFCA28?style=flat&logo=firebase" alt="Firebase Enthusiast" />
-  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat&logo=javascript" alt="JavaScript Expert" />
+  <a href="https://youtube.com/@northbengalcoder"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://t.me/NorthBengalCoderx007"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/NORTHBANGALCODER"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:northbengalcoder@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Md Khalid Hasan**, a 20‑year‑old full‑stack developer from **North Bengal**, India. I build web apps, Telegram bots, automation tools, and contribute to open source. I love turning ideas into code that solves real problems.
+Hey there! I'm **Md Khalid Hasan** (aka North Bengal Coder). I'm 20 years old and just started my exciting journey into the world of programming!
 
-### 📌 Quick Info
-
-- 🔭 Currently working on **Telegram bots & web apps**
-- 🌱 Learning **DevOps, Cloud, & Mobile Dev**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, Firebase, Telegram Bots**
-- ⚡ Fun fact: I code at 2 AM ☕
-
-### 🎯 Current Focus
-
-- 🤖 Building advanced Telegram bots with **Node.js + Telegraf**
-- 🌐 Full‑stack web development with **React, Next.js, Firebase**
-- ☁️ Cloud deployment & DevOps (**Docker, AWS, Vercel**)
-- 📱 Exploring **React Native** for mobile apps
-
-### 🗺️ Learning Roadmap
-
-- ✅ **2024:** JavaScript, Node.js, Firebase, Telegram Bots
-- 🔄 **2025:** React, Next.js, TypeScript, Tailwind CSS
-- 🚀 **2026:** DevOps, AWS, Docker, React Native, AI/ML
+- 🔭 I’m currently working on: **Learning the basics & building small projects**
+- 🌱 I’m currently learning: **JavaScript, Node.js, Firebase, and Telegram Bots**
+- 👯 I’m looking to collaborate on: **Beginner-friendly open source projects**
+- 🤝 I’m looking for help with: **Understanding backend development & APIs**
+- 💬 Ask me about: **My learning journey, YouTube, or Telegram bots**
+- ⚡ Fun fact: **I spend more time fixing bugs than writing code... but I love it!** 😅
 
 ---
 
-## 🛠️ Tech Stack
+## 🗺️ My Learning Roadmap
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+I'm taking it step-by-step to build a strong foundation:
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Telegraf](https://img.shields.io/badge/Telegraf-2C8EBB?style=flat&logo=telegraf&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
-### 🔧 DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=flat&logo=docker&logoColor=white)
+| Stage | Focus Area | Status |
+| :--- | :--- | :--- |
+| **Phase 1** | HTML, CSS, JavaScript (Basics) | ✅ Completed |
+| **Phase 2** | Node.js, Express, Telegram Bot API | 🔄 In Progress |
+| **Phase 3** | Databases (Firebase, MongoDB) | 📖 Next Up |
+| **Phase 4** | React, Full-Stack Web Apps | 🎯 Goal for 2026 |
 
 ---
 
-## 📊 GitHub Dashboard
+## 🛠️ Tech Stack (Learning & Exploring)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NORTHBANGALCODER&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NORTHBANGALCODER&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
-</div>
+Here are the tools and technologies I'm currently playing with:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORTHBANGALCODER&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=NORTHBANGALCODER&theme=radical&no-frame=true&row=2&column=3" alt="Trophy Board" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NORTHBANGALCODER&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/NORTHBANGALCODER" alt="Commit Calendar" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/NORTHBANGALCODER?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hide=0&base.skip=false&config.timezone=Asia%2FKolkata" alt="Metrics Dashboard" width="100%" />
-</div>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
+| **Database** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 ---
 
-## 🐍 Snake Contribution Animation
+## 🐍 Snake Eating My Contributions
+
+*This is a fun animation that shows my contribution graph! (It will show up once you set up the GitHub Action).*
 
 <div align="center">
   <picture>
@@ -163,20 +80,93 @@ I'm **Md Khalid Hasan**, a 20‑year‑old full‑stack developer from **North B
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Stats (My Progress so far)
 
-### 🤖 Telegram Bots
-- **[NorthBengalBot](https://github.com/NORTHBANGALCODER/NorthBengalBot)** – Multi‑utility Telegram bot with 10+ features
-- **[FileShareBot](https://github.com/NORTHBANGALCODER/FileShareBot)** – File sharing & storage bot using Telegram API
-- **[AutoPostBot](https://github.com/NORTHBANGALCODER/AutoPostBot)** – Automated content posting bot for channels
+These stats will update automatically as I code more and contribute more!
 
-### 🌐 Web Apps
-- **[North Bengal Portfolio](https://northbengalcoder.dev)** – Personal portfolio website
-- **[Task Manager Pro](https://github.com/NORTHBANGALCODER/TaskManager)** – Full‑stack task management app
-- **[URL Shortener](https://github.com/NORTHBANGALCODER/URLShortener)** – Custom URL shortener with analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NORTHBANGALCODER&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NORTHBANGALCODER&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
 
-### 🔥 Firebase Projects
-- **[Chat App](https://github.com/NORTHBANGALCODER/ChatApp)** – Real‑time chat app using Firebase
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORTHBANGALCODER&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
+</div>
+
+---
+
+## 📂 My First Projects
+
+Here are some of the projects I've built while learning:
+
+- **[My First Telegram Bot](https://github.com/NORTHBANGALCODER/MyFirstBot)** – A simple Telegram bot to test the basics.
+- **[Personal Portfolio (Work in Progress)](https://github.com/NORTHBANGALCODER/Portfolio)** – My personal website built with HTML, CSS, and JS.
+- **[Simple To-Do App](https://github.com/NORTHBANGALCODER/TodoApp)** – A basic to-do list to practice JavaScript.
+
+> 💡 *More projects coming soon as I learn new things!*
+
+---
+
+## 🎯 My 2026 Goals
+
+As a new coder, these are my targets for the year:
+
+- 📚 **Master JavaScript** (ES6+, Async/Await, DOM Manipulation).
+- 🚀 **Build and deploy** my first full-stack web application.
+- 🤖 **Create 5+ useful Telegram bots** for my community.
+- 📈 **Grow my YouTube channel** by sharing my coding journey.
+- ☁️ **Learn the basics of Cloud** (Firebase / AWS).
+
+---
+
+## 🌐 Connect With Me
+
+I love connecting with fellow developers and learners! Feel free to reach out:
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@northbengalcoder)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NorthBengalCoderx007)
+[![Telegram Channel](https://img.shields.io/badge/My_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/northbangla)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NORTHBANGALCODER)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:northbengalcoder@gmail.com)
+
+---
+
+## 💬 Random Dev Quote for Beginners
+
+> “The best time to start coding was 10 years ago. The second best time is now.” – *Anonymous*
+
+## 😂 A Joke for New Coders
+
+**Why do Java developers wear glasses?**  
+Because they can't C#! 👓
+
+---
+
+## ☕ Support Me (Optional)
+
+If you like my content or want to encourage a newbie developer, you can buy me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/northbengalcoder)
+
+**UPI:** `northbengalcoder@upi`
+
+---
+
+## ❤️ Thanks for Visiting!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NORTHBANGALCODER&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>“Every expert was once a beginner.”</em>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <br />
+  <p>© 2026 <strong>North Bengal Coder</strong> · Made with ❤️</p>
+</div>pp using Firebase
 - **[E‑commerce Dashboard](https://github.com/NORTHBANGALCODER/EcommerceDashboard)** – Admin dashboard with Firestore
 
 ### 📱 Mobile Projects
