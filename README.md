@@ -1,17 +1,25 @@
+<!-- ========================================= -->
+<!--      NORTH BENGAL CODER | README v2026    -->
+<!-- ========================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=⚡%20NORTH%20BENGAL%20CODER%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:00C6FF,100:7F00FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:7F00FF&text=⚡%20NORTH%20BENGAL%20CODER%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hi, I'm MD Khalid Hasan
 
-### 💻 Full Stack Developer | 🤖 Telegram Bot Developer | 🇧🇩 Bangladesh
+### 🌱 Beginner Full Stack Developer | 🤖 Telegram Bot Learner | 🇧🇩 Bangladesh
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+Developer;PHP+Developer;Firebase+Developer;Telegram+Bot+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Learning+Something+New+Every+Day;Future+Full+Stack+Developer;HTML+•+CSS+•+JavaScript;Python+Learner;Firebase+Enthusiast;Telegram+Bot+Developer"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=NORTHBANGALCODER&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=NORTHBANGALCODER&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
 <img src="https://img.shields.io/github/followers/NORTHBANGALCODER?style=for-the-badge&logo=github"/>
+
 <img src="https://img.shields.io/github/stars/NORTHBANGALCODER?style=for-the-badge"/>
+
 </p>
 
 </div>
@@ -23,23 +31,37 @@
 ```yaml
 Name      : MD Khalid Hasan
 Username  : NORTHBANGALCODER
-Location  : Bangladesh 🇧🇩
-Role      : Full Stack Developer
-Learning  : JavaScript, Python, PHP, Firebase
-Focus     : Web Apps • Telegram Bots • Automation
+Country   : Bangladesh 🇧🇩
+Role      : Beginner Full Stack Developer
+Learning  : HTML • CSS • JavaScript • Python • PHP • Firebase
+Interest  : Web Development • Telegram Bots • Automation
 Editor    : VS Code
 OS        : Linux
 ```
 
+💡 I enjoy learning programming by building real projects.
+Every project helps me improve my skills and understand modern development.
+
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,firebase,mysql,nodejs,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,firebase,mysql,git,github,vscode,linux&theme=dark"/>
 
 </p>
+
+---
+
+# 📚 Currently Learning
+
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🐍 Python
+- 🔥 Firebase
+- 🐘 PHP
 
 ---
 
@@ -81,23 +103,24 @@ OS        : Linux
 
 ---
 
-# 🛠 Current Projects
+# 🎯 My Goals
 
-- 🤖 Telegram Bots
-- 🌐 Modern Websites
-- 🔥 Firebase Projects
-- 📱 Authentication Systems
-- ⚡ Automation Tools
+- 🚀 Become a Professional Full Stack Developer
+- 🤖 Build Useful Telegram Bots
+- 🌍 Contribute to Open Source
+- 📚 Learn Modern Web Technologies
+- 💻 Build Real-World Projects
 
 ---
 
-# 🎯 2026 Goals
+# 📌 Featured Projects
 
-- 🚀 Build More Open Source Projects
-- 🤖 Create Advanced Telegram Bots
-- 🌍 Learn Modern Backend Development
-- ☁️ Master Firebase
-- 💻 Contribute to Open Source
+| Project | Status |
+|---------|--------|
+| 🤖 Telegram Bots | 🚧 Learning |
+| 🌐 Portfolio Website | 🚧 In Progress |
+| 🔥 Firebase Projects | 📖 Learning |
+| 💻 Web Applications | 🚀 Building |
 
 ---
 
@@ -125,9 +148,9 @@ OS        : Linux
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
-> *"Every expert was once a beginner. Keep building, keep learning."*
+> **"Every expert was once a beginner. Keep learning, keep building."**
 
 ---
 
@@ -136,5 +159,7 @@ OS        : Linux
 ### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,100:7F00FF"/>
+
+Made with ❤️ by **NORTH BENGAL CODER**
 
 </div>
